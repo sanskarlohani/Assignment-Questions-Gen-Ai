@@ -1,5 +1,6 @@
 package day3
 
 fun main() {
-    println("Hwllo")
+    val coffeeShopName = "Starbuzz"
+    println("Welcome to $coffeeShopName")
 }
